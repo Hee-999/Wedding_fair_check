@@ -1,36 +1,14 @@
-import fs from 'fs';
-import path from 'path';
 import HomeClient from './HomeClient';
 import TravelTest from './TravelTest';
 
-export const dynamic = 'force-dynamic'; // Always fetch the latest data on load
+export const dynamic = 'force-dynamic'; // We can keep this or remove it, but Vercel will rebuild on git push anyway.
 
 async function getLatestFairs() {
   try {
-    // The output directory is at the root of the Blog_writer workspace
-    // frontend/src/app is 3 levels deep from frontend. 
-    // From frontend root, it's ../output
-    const outputDir = path.join(process.cwd(), '..', 'output');
-    
-    if (!fs.existsSync(outputDir)) {
-      return null;
-    }
-
-    const files = fs.readdirSync(outputDir)
-      .filter(f => f.startsWith('wedding_crawl_') && f.endsWith('.json'))
-      .sort((a, b) => {
-        // Sort descending by timestamp
-        const timeA = parseInt(a.match(/\d+/)?.[0] || '0');
-        const timeB = parseInt(b.match(/\d+/)?.[0] || '0');
-        return timeB - timeA;
-      });
-
-    if (files.length === 0) return null;
-
-    const latestFile = files[0];
-    const dataPath = path.join(outputDir, latestFile);
-    const rawData = fs.readFileSync(dataPath, 'utf-8');
-    return JSON.parse(rawData);
+    // Import the statically generated JSON file directly. 
+    // This ensures Vercel/Netlify perfectly bundles the data during build, regardless of file system restrictions.
+    const fairData = (await import('../data/wedding_fairs.json')).default;
+    return fairData;
   } catch (error) {
     console.error("Failed to load wedding fairs:", error);
     return null;

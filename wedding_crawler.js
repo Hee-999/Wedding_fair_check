@@ -135,6 +135,15 @@ export async function crawlWeddingFairs(startUrl, outputDir) {
     const jsonPath = path.join(outputDir, `wedding_crawl_${timestamp}.json`);
     fs.writeFileSync(jsonPath, JSON.stringify(groupedData, null, 2));
     console.log(`[WeddingCrawler] Saved JSON to: ${jsonPath}`);
+
+    // Copy to frontend static data folder for Vercel/Netlify bundling
+    const frontendDataDir = path.join(process.cwd(), 'frontend', 'src', 'data');
+    if (!fs.existsSync(frontendDataDir)) {
+      fs.mkdirSync(frontendDataDir, { recursive: true });
+    }
+    const frontendJsonPath = path.join(frontendDataDir, 'wedding_fairs.json');
+    fs.writeFileSync(frontendJsonPath, JSON.stringify(groupedData, null, 2));
+    console.log(`[WeddingCrawler] Saved JSON to frontend for deployment: ${frontendJsonPath}`);
     
     return groupedData;
   } catch (error) {
