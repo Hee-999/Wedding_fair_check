@@ -1,0 +1,16 @@
+{
+  "name": "yanolja-crawler-service",
+  "version": "1.0.0",
+  "description": "Playwright-based crawler service for Yanolja deals & promotions",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "crawl": "node crawler.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "playwright": "^1.44.1"
+  }
+}
