@@ -14,10 +14,23 @@ type FairItem = {
 type FairsData = Record<string, FairItem[]>;
 
 export default function HomeClient({ initialData }: { initialData: FairsData }) {
-  // Extract categories dynamically from the data, keeping "전체" first
+  // Extract categories dynamically from the data, keeping "전체" first, then "서울", "경기", etc.
   const categories = useMemo(() => {
-    const keys = Object.keys(initialData);
-    const sorted = keys.filter(k => k !== '전체').sort();
+    const keys = Object.keys(initialData).filter(k => k !== '전체');
+    
+    // Define the exact display order for regions
+    const predefinedOrder = ['서울', '경기', '인천', '부산', '충청도', '전라도', '강원도', '경상도', '제주도'];
+    
+    const sorted = keys.sort((a, b) => {
+      const indexA = predefinedOrder.indexOf(a);
+      const indexB = predefinedOrder.indexOf(b);
+      // If a region is not in predefinedOrder, it goes to the end
+      if (indexA === -1 && indexB === -1) return a.localeCompare(b);
+      if (indexA === -1) return 1;
+      if (indexB === -1) return -1;
+      return indexA - indexB;
+    });
+    
     return ['전체', ...sorted];
   }, [initialData]);
 
