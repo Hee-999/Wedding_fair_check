@@ -120,8 +120,8 @@ export default function HomeClient({ initialData }: { initialData: FairsData }) 
       </div>
 
       {/* Mobile Bottom Navigation Bar */}
-      <nav className="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-md border-t border-slate-200 shadow-[0_-4px_6px_-1px_rgba(0,0,0,0.05)] overflow-x-auto hide-scrollbar">
-        <div className="flex px-2 py-2 min-w-max">
+      <nav className="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md border-t border-slate-200 shadow-[0_-4px_12px_rgba(0,0,0,0.08)] overflow-x-auto hide-scrollbar py-3 px-4">
+        <div className="flex gap-2 min-w-max">
           {categories.map((cat) => (
             <button
               key={cat}
@@ -129,14 +129,14 @@ export default function HomeClient({ initialData }: { initialData: FairsData }) 
                 setActiveTab(cat);
                 window.scrollTo({ top: 0, behavior: 'smooth' });
               }}
-              className={`flex flex-col items-center justify-center min-w-[72px] p-2 rounded-xl transition-all ${
+              className={`flex items-center gap-1.5 px-4 py-2 rounded-full border text-xs transition-all duration-200 ${
                 activeTab === cat
-                  ? 'text-pink-600 font-bold'
-                  : 'text-slate-500 font-medium'
+                  ? 'bg-pink-500 text-white border-pink-500 font-bold shadow-md shadow-pink-100 scale-105'
+                  : 'bg-slate-50 text-slate-600 border-slate-200 hover:bg-slate-100 font-medium'
               }`}
             >
-              <span className="text-xl mb-1">{cat === '전체' ? '🌐' : '📍'}</span>
-              <span className="text-[11px] whitespace-nowrap">{cat}</span>
+              <span className="text-sm">{cat === '전체' ? '🌐' : '📍'}</span>
+              <span className="whitespace-nowrap">{cat}</span>
             </button>
           ))}
         </div>
