@@ -4,6 +4,11 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "2026 전국 웨딩 박람회 일정 | 무료 초대권 신청",
   description: "전국 웨딩 박람회, 허니문, 혼수 페어 일정을 지역별로 확인하고 무료 초대권을 신청하세요.",
+  verification: {
+    other: {
+      "naver-site-verification": "628fa3fe09ea6d10342671468dcf3f6cd35211a8",
+    },
+  },
 };
 
 export default function RootLayout({
