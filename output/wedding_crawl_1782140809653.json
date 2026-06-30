@@ -2,6 +2,14 @@
   "전체": [
     {
       "region": "서울",
+      "title": "강남 코엑스 초대형 웨덱스 웨딩페어",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 강남구 삼성동 159, 코엑스",
+      "link": "https://replyalba.com/pt/FhnA2NeDAd",
+      "imageUrl": "https://replyalba.com/banner/URZ8Z1780893851.png"
+    },
+    {
+      "region": "서울",
       "title": "COEX 웨덱스X코웨드 웨딩페어",
       "date": "07.04(토) ~ 07.05(일)",
       "location": "서울 강남구 삼성동 159, 코엑스",
@@ -18,6 +26,14 @@
     },
     {
       "region": "서울",
+      "title": "웨덱스웨딩페어 in 마곡코엑스",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 강서구 마곡중앙로 143 코엑스 마곡컨벤션 센터",
+      "link": "https://replyalba.com/pt/TlXuNindsk",
+      "imageUrl": "https://replyalba.com/banner/D2LYI1781502436.jpg"
+    },
+    {
+      "region": "서울",
       "title": "다이렉트 결혼준비 웨딩박람회",
       "date": "06.01(월) ~ 06.30(화)",
       "location": "서울 강남구 도산대로 221 8층 압구정 서울본사",
@@ -27,18 +43,26 @@
     {
       "region": "서울",
       "title": "서울 웨딩드레스 페어",
-      "date": "07.18(토) ~ 07.19(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "서울 강남구 테헤란로 518 섬유센터 2F",
       "link": "https://replyalba.com/pt/FhnA2I7y0T",
       "imageUrl": "https://replyalba.com/banner/LJZ5O1764211585.jpg"
     },
     {
       "region": "서울",
-      "title": "세텍 허니문 페어",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "서울 강남구 남부순환로 3104 SETEC 컨벤션센터(2층 전시실)",
-      "link": "https://replyalba.com/pt/FhnA2HPbTI",
-      "imageUrl": "https://replyalba.com/banner/LOROD1768897870.jpg"
+      "title": "SETEC 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 강남구 남부순환로 3104 SETEC 2층",
+      "link": "https://replyalba.com/pt/FhnA2KKgBd",
+      "imageUrl": "https://replyalba.com/banner/MWER91747029728.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "서울 롯데월드타워 대형 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 송파구 올림픽로 300 롯데면세점 월드타워점 8층 갤러리 라운지",
+      "link": "https://replyalba.com/pt/FhnA2KoJfS",
+      "imageUrl": "https://replyalba.com/banner/IMF0B1775794112.jpg"
     },
     {
       "region": "서울",
@@ -51,42 +75,10 @@
     {
       "region": "서울",
       "title": "서울 신혼여행 박람회",
-      "date": "07.18(토) ~ 07.19(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "서울 강남구 테헤란로 518 섬유센터 2F",
       "link": "https://replyalba.com/pt/FhnA2KhamB",
       "imageUrl": "https://replyalba.com/banner/BB7OR1764216451.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "용산 아이파크 혼수박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "서울 용산구 한강대로23길 55 아이파크몰 리빙파크 5층 리바트 가구 특별행사장",
-      "link": "https://replyalba.com/pt/FhnA2KJXGH",
-      "imageUrl": "https://replyalba.com/banner/PSTV41781850001.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "용산 아이파크몰 대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "서울 용산구 한강대로23길 55 용산 아이파크몰 리빙파크 3F",
-      "link": "https://replyalba.com/pt/FhnA2I7VzO",
-      "imageUrl": "https://replyalba.com/banner/VSY201707797835.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "서울 명동 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "서울 중구 소공로 63 신세계백화점 본점 12층 특별 행사장",
-      "link": "https://replyalba.com/pt/XxkotSBwbI",
-      "imageUrl": "https://replyalba.com/banner/C39JD1758611009.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "서울 웨딩홀 박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "서울 강남구 테헤란로 518 섬유센터 2F",
-      "link": "https://replyalba.com/pt/FhnA2Mu0ey",
-      "imageUrl": "https://replyalba.com/banner/Q03891764211527.jpg"
     },
     {
       "region": "서울",
@@ -95,22 +87,6 @@
       "location": "서울 강남구 남부순환로 3104 SETEC 컨벤션센터(2층 전시실)",
       "link": "https://replyalba.com/pt/FhnA2IgN0i",
       "imageUrl": "https://replyalba.com/banner/YS4ZT1743125711.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "세텍 웨딩홀 페어",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "서울 강남구 남부순환로 3104 SETEC 컨벤션센터(2층 전시실)",
-      "link": "https://replyalba.com/pt/FhnA2KRV7u",
-      "imageUrl": "https://replyalba.com/banner/MXET31743125714.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "웨덱스웨딩페어 in 마곡코엑스",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "서울 강서구 마곡중앙로 143 코엑스 마곡컨벤션 센터",
-      "link": "https://replyalba.com/pt/TlXuNindsk",
-      "imageUrl": "https://replyalba.com/banner/JXHB11782699509.jpg"
     },
     {
       "region": "서울",
@@ -123,10 +99,74 @@
     {
       "region": "서울",
       "title": "청량리 롯데백화점 대형 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "서울 동대문구 왕산로 214 롯데백화점 청량리점 7층 특별행사장",
       "link": "https://replyalba.com/pt/FhnA2J744k",
       "imageUrl": "https://replyalba.com/banner/P4CSW1755567081.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "서울 명동 웨딩박람회",
+      "date": "07.18(토) ~ 07.19(일)",
+      "location": "서울 중구 소공로 63 신세계백화점 본점 12층 특별 행사장",
+      "link": "https://replyalba.com/pt/XxkotSBwbI",
+      "imageUrl": "https://replyalba.com/banner/C39JD1758611009.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "서울 웨딩홀 박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 강남구 테헤란로 518 섬유센터 2F",
+      "link": "https://replyalba.com/pt/FhnA2Mu0ey",
+      "imageUrl": "https://replyalba.com/banner/Q03891764211527.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "세텍 웨딩홀 페어",
+      "date": "07.11(토) ~ 07.12(일)",
+      "location": "서울 강남구 남부순환로 3104 SETEC 컨벤션센터(2층 전시실)",
+      "link": "https://replyalba.com/pt/FhnA2KRV7u",
+      "imageUrl": "https://replyalba.com/banner/MXET31743125714.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "세텍 허니문 페어",
+      "date": "07.11(토) ~ 07.12(일)",
+      "location": "서울 강남구 남부순환로 3104 SETEC 컨벤션센터(2층 전시실)",
+      "link": "https://replyalba.com/pt/FhnA2HPbTI",
+      "imageUrl": "https://replyalba.com/banner/LOROD1768897870.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "용산 아이파크 혼수박람회",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "서울 용산구 한강대로23길 55 아이파크몰 리빙파크 5층 리바트 가구 특별행사장",
+      "link": "https://replyalba.com/pt/FhnA2KJXGH",
+      "imageUrl": "https://replyalba.com/banner/PSTV41781850001.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "용산 아이파크몰 대형 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 용산구 한강대로23길 55 용산 아이파크몰 리빙파크 3F",
+      "link": "https://replyalba.com/pt/FhnA2I7VzO",
+      "imageUrl": "https://replyalba.com/banner/VSY201707797835.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "수원 메쎄 하우투 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 수원시 권선구 세화로134번길 37 수원메쎄 2층 특별전시장",
+      "link": "https://replyalba.com/pt/FhnA2JH114",
+      "imageUrl": "https://replyalba.com/banner/IMM3H1767769353.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "일산킨텍스 최대규모 대형 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 고양시 일산서구 킨텍스로 217-60 킨텍스 2전시장",
+      "link": "https://replyalba.com/pt/FhnA2KyFxc",
+      "imageUrl": "https://replyalba.com/banner/TRSF81704428926.jpg"
     },
     {
       "region": "경기",
@@ -138,51 +178,51 @@
     },
     {
       "region": "경기",
-      "title": "안양평촌 롯데백화점 레브웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "경기도 안양시 동안구 호계동 1039 롯데백화점 7층 LG전자",
-      "link": "https://replyalba.com/pt/XxkotNrDTF",
-      "imageUrl": "https://replyalba.com/banner/4368P1778813701.jpg"
-    },
-    {
-      "region": "경기",
-      "title": "광명 AK 대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 광명시 양지로 17 AK PLAZA 광명",
-      "link": "https://replyalba.com/pt/FhnA2I6zXo",
-      "imageUrl": "https://replyalba.com/banner/E3V0W1750136079.jpg"
-    },
-    {
-      "region": "경기",
-      "title": "수원 메쎄 하우투 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 수원시 권선구 세화로134번길 37 수원메쎄 2층 특별전시장",
-      "link": "https://replyalba.com/pt/FhnA2JH114",
-      "imageUrl": "https://replyalba.com/banner/IMM3H1767769353.jpg"
-    },
-    {
-      "region": "경기",
       "title": "수원컨벤션센터 초대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "경기 수원시 영통구 광교중앙로 140 수원컨벤션센터 1F",
       "link": "https://replyalba.com/pt/FhnA2KuQnt",
       "imageUrl": "https://replyalba.com/banner/R8J6M1704428936.jpg"
     },
     {
       "region": "경기",
-      "title": "안양 롯데백화점 평촌 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 안양시 동안구 시민대로 180 롯데백화점 평촌점 특별전시장",
-      "link": "https://replyalba.com/pt/FhnA2LPhMC",
-      "imageUrl": "https://replyalba.com/banner/A68FQ1722219656.jpg"
+      "title": "광명 AK 대형 웨딩박람회",
+      "date": "07.18(토) ~ 07.19(일)",
+      "location": "경기 광명시 양지로 17 AK PLAZA 광명",
+      "link": "https://replyalba.com/pt/FhnA2I6zXo",
+      "imageUrl": "https://replyalba.com/banner/E3V0W1750136079.jpg"
     },
     {
       "region": "경기",
-      "title": "일산킨텍스 최대규모 대형 웨딩박람회",
+      "title": "성남/용인 그랜드 웨딩페어",
       "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 고양시 일산서구 킨텍스로 217-60 킨텍스 2전시장",
-      "link": "https://replyalba.com/pt/FhnA2KyFxc",
-      "imageUrl": "https://replyalba.com/banner/TRSF81704428926.jpg"
+      "location": "경기 용인시 수지구 포은대로 536 신세계 사우스시티 특별행사장",
+      "link": "https://replyalba.com/pt/W0YFLuvQJ6",
+      "imageUrl": "https://replyalba.com/banner/0FM571761291731.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "스타필드 고양 그랜드 웨딩페어",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 고양시 덕양구 고양대로 1955 스타필드고양 한샘 특별행사장",
+      "link": "https://replyalba.com/pt/FhnA2NiAD9",
+      "imageUrl": "https://replyalba.com/banner/TE6MC1767599867.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "안산 롯데백화점 그랜드 웨딩페어",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 안산시 단원구 중앙대로873 신관 4층",
+      "link": "https://replyalba.com/pt/FhnA2Lq1nG",
+      "imageUrl": "https://replyalba.com/banner/5ORXX1778551266.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "타임빌라스 수원 대형 웨딩박람회",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "경기 수원시 권선구 세화로 134 지하1층 삼성스토어",
+      "link": "https://replyalba.com/pt/FhnA2Kwaq4",
+      "imageUrl": "https://replyalba.com/banner/CWVGI1761291718.jpg"
     },
     {
       "region": "경기",
@@ -194,11 +234,27 @@
     },
     {
       "region": "경기",
-      "title": "더셜리 의정부 신세계 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 의정부시 의정부동 168-54 신세계백화점 8층 LG전자 특별행사장",
-      "link": "https://replyalba.com/pt/FhnA2KJiV3",
-      "imageUrl": "https://replyalba.com/banner/SY72G1726714450.jpg"
+      "title": "광명 위드유 웨딩박람회",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "경기 광명시 금하로 454 삼성스토어 광명소하 특별행사장",
+      "link": "https://replyalba.com/pt/XxkotRqUaA",
+      "imageUrl": "https://replyalba.com/banner/HDIO51744593274.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "더셜리 수원 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 수원시 팔달구 인계로94번길 26 1층 투어민",
+      "link": "https://replyalba.com/pt/FhnA2KWAQr",
+      "imageUrl": "https://replyalba.com/banner/VSJ061775609407.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "동탄 롯데백화점 그랜드 웨딩페어",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 화성시 동탄역로 160 롯데백화점 동탄점 6층 특별행사장",
+      "link": "https://replyalba.com/pt/FhnA2IpZqn",
+      "imageUrl": "https://replyalba.com/banner/MBCZK1762753410.jpg"
     },
     {
       "region": "경기",
@@ -210,11 +266,11 @@
     },
     {
       "region": "경기",
-      "title": "성남/용인 그랜드 웨딩페어",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 용인시 수지구 포은대로 536 신세계 사우스시티 특별행사장",
-      "link": "https://replyalba.com/pt/W0YFLuvQJ6",
-      "imageUrl": "https://replyalba.com/banner/0FM571761291731.jpg"
+      "title": "수원 AK플라자 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 수원시 팔달구 덕영대로 924 AK플라자 수원",
+      "link": "https://replyalba.com/pt/FhnA2MzDhX",
+      "imageUrl": "https://replyalba.com/banner/BOPXH1737619245.jpg"
     },
     {
       "region": "경기",
@@ -234,35 +290,11 @@
     },
     {
       "region": "경기",
-      "title": "수원 메쎄 하우투 허니문박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 수원시 권선구 세화로 134번길 37 수원메쎄",
-      "link": "https://replyalba.com/pt/OjTCN84D9D",
-      "imageUrl": "https://replyalba.com/banner/2PJX11771477278.jpg"
-    },
-    {
-      "region": "경기",
-      "title": "수원 메쎄 홈씨씨 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "경기 수원시 권선구 세화로134번길 37 수원메쎄 특별전시장",
-      "link": "https://replyalba.com/pt/FhnA2L6SBm",
-      "imageUrl": "https://replyalba.com/banner/X4DVI1756693879.jpg"
-    },
-    {
-      "region": "경기",
       "title": "수원 웨딩거리 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "경기 수원시 팔달구 효원로 62, 수원웨딩만들기 웨딩타운 전층",
       "link": "https://replyalba.com/pt/FhnA2MrzKN",
       "imageUrl": "https://replyalba.com/banner/DK5S31709699054.jpg"
-    },
-    {
-      "region": "경기",
-      "title": "수원 타임빌라스 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 수원시 권선구 세화로 134 타임빌라스 수원점",
-      "link": "https://replyalba.com/pt/FhnA2INpXD",
-      "imageUrl": "https://replyalba.com/banner/5T72Q1779430981.jpg"
     },
     {
       "region": "경기",
@@ -274,14 +306,6 @@
     },
     {
       "region": "경기",
-      "title": "스타필드 고양 그랜드 웨딩페어",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 고양시 덕양구 고양대로 1955 스타필드고양 한샘 특별행사장",
-      "link": "https://replyalba.com/pt/FhnA2NiAD9",
-      "imageUrl": "https://replyalba.com/banner/TE6MC1767599867.jpg"
-    },
-    {
-      "region": "경기",
       "title": "안산 삼성 고잔점 위드유 웨딩박람회",
       "date": "06.01(월) ~ 06.30(화)",
       "location": "경기 안산시 상록구 광덕1로 342 삼성스토어 안산고잔 2층",
@@ -290,19 +314,27 @@
     },
     {
       "region": "경기",
-      "title": "안성 스타필드 그랜드 웨딩페어",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "경기도 안성시 공도읍 서동대로 3930-39 2F 스타필드 안성점(한샘) 특별행사장",
-      "link": "https://replyalba.com/pt/FhnA2MNeFB",
-      "imageUrl": "https://replyalba.com/banner/W0GU81772521244.jpg"
+      "title": "안양 롯데백화점 평촌 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 안양시 동안구 시민대로 180 롯데백화점 평촌점 특별전시장",
+      "link": "https://replyalba.com/pt/FhnA2LPhMC",
+      "imageUrl": "https://replyalba.com/banner/A68FQ1722219656.jpg"
     },
     {
       "region": "경기",
-      "title": "월컨투 의정부 허니문박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 의정부시 의정부동 168-54 신세계백화점 8층 LG전자 특별행사장",
-      "link": "https://replyalba.com/pt/FhnA2JGpjN",
-      "imageUrl": "https://replyalba.com/banner/EWZK31782269922.jpg"
+      "title": "안양평촌 롯데백화점 레브웨딩박람회",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "경기도 안양시 동안구 호계동 1039 롯데백화점 7층 LG전자",
+      "link": "https://replyalba.com/pt/XxkotNrDTF",
+      "imageUrl": "https://replyalba.com/banner/4368P1778813701.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "웨딩더하기 동탄 롯데백화점 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 화성시 동탄구 동탄역로 160 6층 동탄 롯데백화점 LG가전 특별 행사장",
+      "link": "https://replyalba.com/pt/XxkotPeq5h",
+      "imageUrl": "https://replyalba.com/banner/6CCFE1734669979.jpg"
     },
     {
       "region": "경기",
@@ -330,22 +362,6 @@
     },
     {
       "region": "경기",
-      "title": "타임빌라스 수원 대형 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "경기 수원시 권선구 세화로 134 지하1층 삼성스토어",
-      "link": "https://replyalba.com/pt/FhnA2Kwaq4",
-      "imageUrl": "https://replyalba.com/banner/CWVGI1761291718.jpg"
-    },
-    {
-      "region": "경기",
-      "title": "파주 패밀리 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "경기도 파주시 미래로 319 LG전자 베스트샵 파주 운정본점 특별행사장",
-      "link": "https://replyalba.com/pt/OjTCNbofp6",
-      "imageUrl": "https://replyalba.com/banner/CZXQ41762151029.jpg"
-    },
-    {
-      "region": "경기",
       "title": "평택 LG베스트샵 위드유 웨딩박람회",
       "date": "07.04(토) ~ 07.05(일)",
       "location": "경기 평택시 평택로 311 LG전자베스트샵 평택본점",
@@ -355,7 +371,7 @@
     {
       "region": "경기",
       "title": "평택 그랜드 웨딩페어",
-      "date": "07.11(토) ~ 07.12(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "경기 평택시 평택로 51 AK플라자 평택점 6층 특별행사장",
       "link": "https://replyalba.com/pt/FhnA2Ll6aw",
       "imageUrl": "https://replyalba.com/banner/BB7WF1768286679.jpg"
@@ -371,26 +387,18 @@
     {
       "region": "경기",
       "title": "하남 패밀리 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
+      "date": "07.11(토) ~ 07.12(일)",
       "location": "경기 하남시 미사대로 750 지하1층 LG전자베스트샵 신세계하남점",
       "link": "https://replyalba.com/pt/zRFqUdv2Kb",
       "imageUrl": "https://replyalba.com/banner/AJT131756173028.jpg"
     },
     {
       "region": "인천",
-      "title": "인천 송도컨벤시아 대형 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "인천 연수구 센트럴로 123 송도컨벤시아",
-      "link": "https://replyalba.com/pt/W0YFLul5jS",
-      "imageUrl": "https://replyalba.com/banner/9CQ9Q1705982887.jpg"
-    },
-    {
-      "region": "인천",
-      "title": "인천 하이허니문",
-      "date": "06.01(월) ~ 06.30(화)",
-      "location": "인천 남동구 예술로 206 중앙프라자 A동 3층",
-      "link": "https://replyalba.com/pt/W0YFLsfC7g",
-      "imageUrl": "https://replyalba.com/banner/8HGXM1743400939.jpg"
+      "title": "초대형 인천 하이어 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "인천 연수구 센트럴로 123 송도컨벤시아 116호, 117호",
+      "link": "https://replyalba.com/pt/TlXuNifmNj",
+      "imageUrl": "https://replyalba.com/banner/PPIB71781498863.jpg"
     },
     {
       "region": "인천",
@@ -419,7 +427,7 @@
     {
       "region": "인천",
       "title": "송도 엘리아벨 대형 웨딩박람회",
-      "date": "07.25(토) ~ 07.26(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "인천 연수구 송도힐즈로10길 8 엘리아벨 특별행사장",
       "link": "https://replyalba.com/pt/W0YFLu2hGy",
       "imageUrl": "https://replyalba.com/banner/56JMP1781140294.jpg"
@@ -433,12 +441,52 @@
       "imageUrl": "https://replyalba.com/banner/X917V1779086122.jpg"
     },
     {
-      "region": "부산",
-      "title": "롯데백화점 부산본점 웨딩엑스포",
+      "region": "인천",
+      "title": "인천 송도컨벤시아 대형 웨딩박람회",
       "date": "07.04(토) ~ 07.05(일)",
-      "location": "부산 부산진구 가야대로 772 롯데백화점 부산본점 10층",
-      "link": "https://replyalba.com/pt/W0YFLv1aGR",
-      "imageUrl": "https://replyalba.com/banner/JWKG91750993173.jpg"
+      "location": "인천 연수구 센트럴로 123 송도컨벤시아",
+      "link": "https://replyalba.com/pt/W0YFLul5jS",
+      "imageUrl": "https://replyalba.com/banner/9CQ9Q1705982887.jpg"
+    },
+    {
+      "region": "인천",
+      "title": "인천 하이허니문",
+      "date": "06.01(월) ~ 06.30(화)",
+      "location": "인천 남동구 예술로 206 중앙프라자 A동 3층",
+      "link": "https://replyalba.com/pt/W0YFLsfC7g",
+      "imageUrl": "https://replyalba.com/banner/8HGXM1743400939.jpg"
+    },
+    {
+      "region": "부산",
+      "title": "KNN 부산 웨딩엑스포",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "부산 해운대구 센텀서로 30 KNN방송국 특별행사장",
+      "link": "https://replyalba.com/pt/W0YFLuwHDz",
+      "imageUrl": "https://replyalba.com/banner/Z4OBF1732583342.jpg"
+    },
+    {
+      "region": "부산",
+      "title": "W웨딩 롯데백화점 부산본점 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "부산광역시 부산진구 가야대로 772 롯데백화점 부산본점 10층",
+      "link": "https://replyalba.com/pt/W0YFLr2TuX",
+      "imageUrl": "https://replyalba.com/banner/VOE9B1736227945.jpg"
+    },
+    {
+      "region": "부산",
+      "title": "W웨딩 신세계센텀 부산웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "부산광역시 해운대구 센텀남대로 35 신세계백화점 센텀시티점",
+      "link": "https://replyalba.com/pt/W0YFLs81Df",
+      "imageUrl": "https://replyalba.com/banner/LC1LW1736227524.jpg"
+    },
+    {
+      "region": "부산",
+      "title": "W웨딩시티 부산웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "부산광역시 부산진구 자유평화로 11 W웨딩시티",
+      "link": "https://replyalba.com/pt/W0YFLtExSt",
+      "imageUrl": "https://replyalba.com/banner/51X8Y1693292347.jpg"
     },
     {
       "region": "부산",
@@ -450,64 +498,24 @@
     },
     {
       "region": "부산",
-      "title": "BWB 부산 벡스코 웨딩박람회",
-      "date": "07.17(금) ~ 07.19(일)",
-      "location": "부산 해운대구 APEC로 30 벡스코 제2전시장 1층 4B홀",
-      "link": "https://replyalba.com/pt/OjTCN92WRD",
-      "imageUrl": "https://replyalba.com/banner/W4SR61740372190.jpg"
-    },
-    {
-      "region": "부산",
-      "title": "W웨딩 롯데백화점 부산본점 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "부산광역시 부산진구 가야대로 772 롯데백화점 부산본점 10층",
-      "link": "https://replyalba.com/pt/W0YFLr2TuX",
-      "imageUrl": "https://replyalba.com/banner/VOE9B1736227945.jpg"
-    },
-    {
-      "region": "부산",
-      "title": "KNN 부산 웨딩엑스포",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "부산 해운대구 센텀서로 30 KNN방송국 특별행사장",
-      "link": "https://replyalba.com/pt/W0YFLuwHDz",
-      "imageUrl": "https://replyalba.com/banner/Z4OBF1732583342.jpg"
-    },
-    {
-      "region": "부산",
-      "title": "W웨딩 신세계센텀 부산웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "부산광역시 해운대구 센텀남대로 35 신세계백화점 센텀시티점",
-      "link": "https://replyalba.com/pt/W0YFLs81Df",
-      "imageUrl": "https://replyalba.com/banner/LC1LW1736227524.jpg"
-    },
-    {
-      "region": "부산",
-      "title": "W웨딩시티 부산웨딩박람회",
+      "title": "롯데백화점 부산본점 웨딩엑스포",
       "date": "07.04(토) ~ 07.05(일)",
-      "location": "부산광역시 부산진구 자유평화로 11 W웨딩시티",
-      "link": "https://replyalba.com/pt/W0YFLtExSt",
-      "imageUrl": "https://replyalba.com/banner/51X8Y1693292347.jpg"
+      "location": "부산 부산진구 가야대로 772 롯데백화점 부산본점 10층",
+      "link": "https://replyalba.com/pt/W0YFLv1aGR",
+      "imageUrl": "https://replyalba.com/banner/JWKG91750993173.jpg"
     },
     {
       "region": "부산",
       "title": "부산 더블혜택 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "부산 부산진구 황령대로 13 한라시그마타워 1F",
       "link": "https://replyalba.com/pt/W0YFLsZxAd",
       "imageUrl": "https://replyalba.com/banner/8S7PP1766713555.jpg"
     },
     {
       "region": "부산",
-      "title": "부산 라모르 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "부산 연제구 법원로8번길 10 라모르웨딩",
-      "link": "https://replyalba.com/pt/W0YFLrddVG",
-      "imageUrl": "https://replyalba.com/banner/2FPFG1768976420.jpg"
-    },
-    {
-      "region": "부산",
       "title": "부산 찰스 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "부산광역시 부산진구 황령대로 13 한라시그마타워 1F",
       "link": "https://replyalba.com/pt/W0YFLqWwTw",
       "imageUrl": "https://replyalba.com/banner/XBIFU1766713272.jpg"
@@ -515,26 +523,10 @@
     {
       "region": "부산",
       "title": "부산 투어민 허니문초대전",
-      "date": "07.04(토) ~ 07.05(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "부산 연제구 법원로8번길 10, 1층",
       "link": "https://replyalba.com/pt/W0YFLs3Cgu",
       "imageUrl": "https://replyalba.com/banner/OAHPC1766450338.jpg"
-    },
-    {
-      "region": "충청도",
-      "title": "청주 오스코 하우투 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "충북 청주시 흥덕구 오송읍 만수리 275-5 청주 오스코 특별전시장",
-      "link": "https://replyalba.com/pt/XxkotNwZXg",
-      "imageUrl": "https://replyalba.com/banner/VX77M1756098853.jpg"
-    },
-    {
-      "region": "충청도",
-      "title": "대전 NC백화점 대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "대전 유성구 계룡로 119 NC백화점 유성점 7층 특별 행사장",
-      "link": "https://replyalba.com/pt/W0YFLtAQ7D",
-      "imageUrl": "https://replyalba.com/banner/O86201754550305.jpg"
     },
     {
       "region": "충청도",
@@ -546,19 +538,19 @@
     },
     {
       "region": "충청도",
-      "title": "천안 갤러리아 그랜드 웨딩페어",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "충남 천안시 서북구 공원로 227 7층 LG전자베스트샵 갤러리아 특별행사장",
-      "link": "https://replyalba.com/pt/TlXuNd6ujh",
-      "imageUrl": "https://replyalba.com/banner/W1Y0A1761291416.jpg"
+      "title": "천안 갤러리아 대형 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "충남 천안시 서북구 공원로 227 갤러리아백화점 센터시티점 7F 특별전시장",
+      "link": "https://replyalba.com/pt/W0YFLvx5Hy",
+      "imageUrl": "https://replyalba.com/banner/5BG0T1714107892.jpg"
     },
     {
       "region": "충청도",
-      "title": "청주 오스코 초대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "충북 청주시 흥덕구 오송읍 만수리 275-5 청주오스코 특별전시장",
-      "link": "https://replyalba.com/pt/W0YFLvYb9x",
-      "imageUrl": "https://replyalba.com/banner/5K2C41754025930.jpg"
+      "title": "청주 OSCO 패밀리 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "충북 청주시 흥덕구 오송읍 만수리 275-5 청주오스코 특별행사장",
+      "link": "https://replyalba.com/pt/W0YFLrDjQh",
+      "imageUrl": "https://replyalba.com/banner/FJKCQ1762151417.jpg"
     },
     {
       "region": "충청도",
@@ -570,11 +562,11 @@
     },
     {
       "region": "충청도",
-      "title": "당진 그랜드 웨딩페어",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "충남 당진시 수청9길 23 LG전자베스트샵 당진점 특별행사장",
-      "link": "https://replyalba.com/pt/W0YFLtYVOB",
-      "imageUrl": "https://replyalba.com/banner/HXD8X1761291725.jpg"
+      "title": "대전 NC백화점 대형 웨딩박람회",
+      "date": "07.11(토) ~ 07.12(일)",
+      "location": "대전 유성구 계룡로 119 NC백화점 유성점 7층 특별 행사장",
+      "link": "https://replyalba.com/pt/W0YFLtAQ7D",
+      "imageUrl": "https://replyalba.com/banner/O86201754550305.jpg"
     },
     {
       "region": "충청도",
@@ -586,19 +578,11 @@
     },
     {
       "region": "충청도",
-      "title": "천안 갤러리아 대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "충남 천안시 서북구 공원로 227 갤러리아백화점 센터시티점 7F 특별전시장",
-      "link": "https://replyalba.com/pt/W0YFLvx5Hy",
-      "imageUrl": "https://replyalba.com/banner/5BG0T1714107892.jpg"
-    },
-    {
-      "region": "충청도",
-      "title": "천안 신세계백화점 레브웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "충남 천안시 동남구 만남로 43 신세계 천안아산점 A관 4층 LG전자",
-      "link": "https://replyalba.com/pt/W0YFLtgBSw",
-      "imageUrl": "https://replyalba.com/banner/PEOTY1772514246.jpg"
+      "title": "천안 갤러리아 그랜드 웨딩페어",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "충남 천안시 서북구 공원로 227 7층 LG전자베스트샵 갤러리아 특별행사장",
+      "link": "https://replyalba.com/pt/TlXuNd6ujh",
+      "imageUrl": "https://replyalba.com/banner/W1Y0A1761291416.jpg"
     },
     {
       "region": "충청도",
@@ -623,6 +607,22 @@
       "location": "충남 천안시 동남구 서부대로 540 1층 하이허니문 천안점",
       "link": "https://replyalba.com/pt/W0YFLscn6u",
       "imageUrl": "https://replyalba.com/banner/A733P1743400737.jpg"
+    },
+    {
+      "region": "충청도",
+      "title": "청주 오스코 초대형 웨딩박람회",
+      "date": "07.11(토) ~ 07.12(일)",
+      "location": "충북 청주시 흥덕구 오송읍 만수리 275-5 청주오스코 특별전시장",
+      "link": "https://replyalba.com/pt/W0YFLvYb9x",
+      "imageUrl": "https://replyalba.com/banner/5K2C41754025930.jpg"
+    },
+    {
+      "region": "충청도",
+      "title": "청주 오스코 하우투 웨딩박람회",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "충북 청주시 흥덕구 오송읍 만수리 275-5 청주 오스코 특별전시장",
+      "link": "https://replyalba.com/pt/XxkotNwZXg",
+      "imageUrl": "https://replyalba.com/banner/VX77M1756098853.jpg"
     },
     {
       "region": "충청도",
@@ -673,12 +673,44 @@
       "imageUrl": "https://replyalba.com/banner/02HA61763023197.jpg"
     },
     {
+      "region": "전라도",
+      "title": "광주 컨벤션 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "광주 서구 치평동 1282-1 컨벤션타워 2층",
+      "link": "https://replyalba.com/pt/W0YFLq064V",
+      "imageUrl": "https://replyalba.com/banner/V81J51773970626.jpg"
+    },
+    {
       "region": "강원도",
       "title": "AK플라자 원주 그랜드 웨딩페어",
       "date": "07.04(토) ~ 07.05(일)",
       "location": "강원 원주시 봉화로 1 AK플라자 원주 특별행사장",
       "link": "https://replyalba.com/pt/W0YFLt0SVV",
       "imageUrl": "https://replyalba.com/banner/H3QSZ1761291712.jpg"
+    },
+    {
+      "region": "강원도",
+      "title": "원주 삼성스토어 위드유 웨딩박람회",
+      "date": "06.01(월) ~ 06.30(화)",
+      "location": "강원도 원주시 북원로 2384 삼성스토어 단계",
+      "link": "https://replyalba.com/pt/W0YFLtip3B",
+      "imageUrl": "https://replyalba.com/banner/GAVH01727834302.jpg"
+    },
+    {
+      "region": "강원도",
+      "title": "웨딩더하기 원주 LG베스트샵 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "강원도 원주시 봉화로 1 6층 LG전자베스트샵 AK플라자원주점",
+      "link": "https://replyalba.com/pt/XxkotNxTHg",
+      "imageUrl": "https://replyalba.com/banner/04C5C1772685100.jpg"
+    },
+    {
+      "region": "강원도",
+      "title": "강릉 세인트존스 레브웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "강원도 강릉시 창해로 307 강릉세인트존스 호텔",
+      "link": "https://replyalba.com/pt/W0YFLufxrX",
+      "imageUrl": "https://replyalba.com/banner/BJX6Q1768541491.jpg"
     },
     {
       "region": "강원도",
@@ -698,35 +730,11 @@
     },
     {
       "region": "강원도",
-      "title": "원주 삼성스토어 위드유 웨딩박람회",
-      "date": "06.01(월) ~ 06.30(화)",
-      "location": "강원도 원주시 북원로 2384 삼성스토어 단계",
-      "link": "https://replyalba.com/pt/W0YFLtip3B",
-      "imageUrl": "https://replyalba.com/banner/GAVH01727834302.jpg"
-    },
-    {
-      "region": "강원도",
-      "title": "웨딩더하기 원주 LG베스트샵 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "강원도 원주시 봉화로 1 6층 LG전자베스트샵 AK플라자원주점",
-      "link": "https://replyalba.com/pt/XxkotNxTHg",
-      "imageUrl": "https://replyalba.com/banner/04C5C1772685100.jpg"
-    },
-    {
-      "region": "강원도",
       "title": "춘천 더테라리움 위드유 웨딩박람회",
       "date": "07.11(토) ~ 07.12(일)",
       "location": "강원도 춘천시 지석로 80 10층 춘천 더테라리움",
       "link": "https://replyalba.com/pt/XxkotQgH4y",
       "imageUrl": "https://replyalba.com/banner/T2G721769498166.jpg"
-    },
-    {
-      "region": "강원도",
-      "title": "춘천 레브웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "강원 춘천시 영서로 2099 LG전자 베스트샵 춘천점",
-      "link": "https://replyalba.com/pt/W0YFLub6sy",
-      "imageUrl": "https://replyalba.com/banner/D5GZM1779424490.jpg"
     },
     {
       "region": "강원도",
@@ -738,25 +746,9 @@
     },
     {
       "region": "경상도",
-      "title": "울산 롯데백화점 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "울산 남구 삼산로 288 롯데백화점 울산점 특별행사장 B1",
-      "link": "https://replyalba.com/pt/W0YFLrYZ4g",
-      "imageUrl": "https://replyalba.com/banner/S8DL91722494712.jpg"
-    },
-    {
-      "region": "경상도",
-      "title": "울산 반하나 허니문박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "울산 북구 진장동 705 신선도원몰, 1층 반하나투어",
-      "link": "https://replyalba.com/pt/W0YFLqaOE0",
-      "imageUrl": "https://replyalba.com/banner/7ZCOH1749778237.jpg"
-    },
-    {
-      "region": "경상도",
       "title": "대구 대결모 대규모 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "대구 중구 동문동 38-6 패션주얼리타운 2층",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "대구광역시 수성구 동대구로 305 그랜드호텔 웨딩행사장",
       "link": "https://replyalba.com/pt/W0YFLt6mFN",
       "imageUrl": "https://replyalba.com/banner/V49A51775784775.jpg"
     },
@@ -770,6 +762,46 @@
     },
     {
       "region": "경상도",
+      "title": "울산 반하나 허니문박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "울산 북구 진장동 705 신선도원몰, 1층 반하나투어",
+      "link": "https://replyalba.com/pt/W0YFLqaOE0",
+      "imageUrl": "https://replyalba.com/banner/7ZCOH1749778237.jpg"
+    },
+    {
+      "region": "경상도",
+      "title": "웨딩하람 웨딩박람회",
+      "date": "07.11(토) ~ 07.12(일)",
+      "location": "대구광역시 중구 공평로59 (우원빌딩) 59 2층",
+      "link": "https://replyalba.com/pt/W0YFLuh4uh",
+      "imageUrl": "https://replyalba.com/banner/QQ3GU1768204104.jpg"
+    },
+    {
+      "region": "경상도",
+      "title": "창원 프리마베라 웨딩박람회",
+      "date": "06.01(월) ~ 06.30(화)",
+      "location": "경상남도 창원시 성산구 용지로 112 청담 순수 창원점(중앙동)",
+      "link": "https://replyalba.com/pt/W0YFLtXTPj",
+      "imageUrl": "https://replyalba.com/banner/9O0WW1759131416.jpg"
+    },
+    {
+      "region": "경상도",
+      "title": "김해 최대규모 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경남 김해시 김해대로 2294 LG전자베스트샵 김해본점 특별행사장",
+      "link": "https://replyalba.com/pt/W0YFLs2DGh",
+      "imageUrl": "https://replyalba.com/banner/WXIGV1768888348.jpg"
+    },
+    {
+      "region": "경상도",
+      "title": "대구 반하나 허니문박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "대구 신세계백화점 7층 LG",
+      "link": "https://replyalba.com/pt/W0YFLt6uBt",
+      "imageUrl": "https://replyalba.com/banner/K9CRV1764825292.jpg"
+    },
+    {
+      "region": "경상도",
       "title": "대구 연웨딩갤러리 웨딩박람회",
       "date": "07.11(토) ~ 07.12(일)",
       "location": "대구 중구 명덕로65길 32 연웨딩사옥 1층",
@@ -778,11 +810,11 @@
     },
     {
       "region": "경상도",
-      "title": "웨딩하람 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "대구광역시 중구 동덕로 33, 13동 1층 13호(대봉동) 웨딩하람",
-      "link": "https://replyalba.com/pt/W0YFLuh4uh",
-      "imageUrl": "https://replyalba.com/banner/QQ3GU1768204104.jpg"
+      "title": "울산 롯데백화점 웨딩박람회",
+      "date": "06.01(월) ~ 06.30(화)",
+      "location": "울산 남구 삼산로 288 롯데백화점 울산점 특별행사장 B1",
+      "link": "https://replyalba.com/pt/W0YFLrYZ4g",
+      "imageUrl": "https://replyalba.com/banner/S8DL91722494712.jpg"
     },
     {
       "region": "경상도",
@@ -810,27 +842,11 @@
     },
     {
       "region": "경상도",
-      "title": "창원 최대규모 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "경남 창원시 성산구 중앙대로100번길 13 LG전자베스트샵 상남본점",
-      "link": "https://replyalba.com/pt/W0YFLrznhA",
-      "imageUrl": "https://replyalba.com/banner/ZMP301768888297.jpg"
-    },
-    {
-      "region": "경상도",
       "title": "창원 최대규모 허니문박람회",
-      "date": "07.04(토) ~ 07.05(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "경남 창원시 성산구 마디미서로 30 2층 썸웨드 본사 사옥",
       "link": "https://replyalba.com/pt/W0YFLtkoEh",
       "imageUrl": "https://replyalba.com/banner/F83461776652764.jpg"
-    },
-    {
-      "region": "경상도",
-      "title": "창원 프리마베라 웨딩박람회",
-      "date": "06.01(월) ~ 06.30(화)",
-      "location": "경상남도 창원시 성산구 용지로 112 청담 순수 창원점(중앙동)",
-      "link": "https://replyalba.com/pt/W0YFLtXTPj",
-      "imageUrl": "https://replyalba.com/banner/9O0WW1759131416.jpg"
     },
     {
       "region": "경상도",
@@ -847,25 +863,17 @@
       "location": "제주도 제주시 한라대학로 38 제주한라대학교 한라컨벤션센터 1층 특별행사장",
       "link": "https://replyalba.com/pt/W0YFLrH0rQ",
       "imageUrl": "https://replyalba.com/banner/P91TM1780896403.jpg"
-    },
-    {
-      "region": "제주도",
-      "title": "제주 제이유 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "제주 제주시 동광로 34 호텔샬롬 제주",
-      "link": "https://replyalba.com/pt/W0YFLtHy3n",
-      "imageUrl": "https://replyalba.com/banner/O24351773037030.jpg"
-    },
-    {
-      "region": "제주도",
-      "title": "제주 투어민 허니문박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "제주 제주시 동광로 34 호텔샬롬 제주",
-      "link": "https://replyalba.com/pt/W0YFLsJlQR",
-      "imageUrl": "https://replyalba.com/banner/VTL1C1768807756.jpg"
     }
   ],
   "서울": [
+    {
+      "region": "서울",
+      "title": "강남 코엑스 초대형 웨덱스 웨딩페어",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 강남구 삼성동 159, 코엑스",
+      "link": "https://replyalba.com/pt/FhnA2NeDAd",
+      "imageUrl": "https://replyalba.com/banner/URZ8Z1780893851.png"
+    },
     {
       "region": "서울",
       "title": "COEX 웨덱스X코웨드 웨딩페어",
@@ -884,6 +892,14 @@
     },
     {
       "region": "서울",
+      "title": "웨덱스웨딩페어 in 마곡코엑스",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 강서구 마곡중앙로 143 코엑스 마곡컨벤션 센터",
+      "link": "https://replyalba.com/pt/TlXuNindsk",
+      "imageUrl": "https://replyalba.com/banner/D2LYI1781502436.jpg"
+    },
+    {
+      "region": "서울",
       "title": "다이렉트 결혼준비 웨딩박람회",
       "date": "06.01(월) ~ 06.30(화)",
       "location": "서울 강남구 도산대로 221 8층 압구정 서울본사",
@@ -893,18 +909,26 @@
     {
       "region": "서울",
       "title": "서울 웨딩드레스 페어",
-      "date": "07.18(토) ~ 07.19(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "서울 강남구 테헤란로 518 섬유센터 2F",
       "link": "https://replyalba.com/pt/FhnA2I7y0T",
       "imageUrl": "https://replyalba.com/banner/LJZ5O1764211585.jpg"
     },
     {
       "region": "서울",
-      "title": "세텍 허니문 페어",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "서울 강남구 남부순환로 3104 SETEC 컨벤션센터(2층 전시실)",
-      "link": "https://replyalba.com/pt/FhnA2HPbTI",
-      "imageUrl": "https://replyalba.com/banner/LOROD1768897870.jpg"
+      "title": "SETEC 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 강남구 남부순환로 3104 SETEC 2층",
+      "link": "https://replyalba.com/pt/FhnA2KKgBd",
+      "imageUrl": "https://replyalba.com/banner/MWER91747029728.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "서울 롯데월드타워 대형 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 송파구 올림픽로 300 롯데면세점 월드타워점 8층 갤러리 라운지",
+      "link": "https://replyalba.com/pt/FhnA2KoJfS",
+      "imageUrl": "https://replyalba.com/banner/IMF0B1775794112.jpg"
     },
     {
       "region": "서울",
@@ -917,42 +941,10 @@
     {
       "region": "서울",
       "title": "서울 신혼여행 박람회",
-      "date": "07.18(토) ~ 07.19(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "서울 강남구 테헤란로 518 섬유센터 2F",
       "link": "https://replyalba.com/pt/FhnA2KhamB",
       "imageUrl": "https://replyalba.com/banner/BB7OR1764216451.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "용산 아이파크 혼수박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "서울 용산구 한강대로23길 55 아이파크몰 리빙파크 5층 리바트 가구 특별행사장",
-      "link": "https://replyalba.com/pt/FhnA2KJXGH",
-      "imageUrl": "https://replyalba.com/banner/PSTV41781850001.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "용산 아이파크몰 대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "서울 용산구 한강대로23길 55 용산 아이파크몰 리빙파크 3F",
-      "link": "https://replyalba.com/pt/FhnA2I7VzO",
-      "imageUrl": "https://replyalba.com/banner/VSY201707797835.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "서울 명동 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "서울 중구 소공로 63 신세계백화점 본점 12층 특별 행사장",
-      "link": "https://replyalba.com/pt/XxkotSBwbI",
-      "imageUrl": "https://replyalba.com/banner/C39JD1758611009.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "서울 웨딩홀 박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "서울 강남구 테헤란로 518 섬유센터 2F",
-      "link": "https://replyalba.com/pt/FhnA2Mu0ey",
-      "imageUrl": "https://replyalba.com/banner/Q03891764211527.jpg"
     },
     {
       "region": "서울",
@@ -961,22 +953,6 @@
       "location": "서울 강남구 남부순환로 3104 SETEC 컨벤션센터(2층 전시실)",
       "link": "https://replyalba.com/pt/FhnA2IgN0i",
       "imageUrl": "https://replyalba.com/banner/YS4ZT1743125711.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "세텍 웨딩홀 페어",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "서울 강남구 남부순환로 3104 SETEC 컨벤션센터(2층 전시실)",
-      "link": "https://replyalba.com/pt/FhnA2KRV7u",
-      "imageUrl": "https://replyalba.com/banner/MXET31743125714.jpg"
-    },
-    {
-      "region": "서울",
-      "title": "웨덱스웨딩페어 in 마곡코엑스",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "서울 강서구 마곡중앙로 143 코엑스 마곡컨벤션 센터",
-      "link": "https://replyalba.com/pt/TlXuNindsk",
-      "imageUrl": "https://replyalba.com/banner/JXHB11782699509.jpg"
     },
     {
       "region": "서울",
@@ -989,13 +965,77 @@
     {
       "region": "서울",
       "title": "청량리 롯데백화점 대형 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "서울 동대문구 왕산로 214 롯데백화점 청량리점 7층 특별행사장",
       "link": "https://replyalba.com/pt/FhnA2J744k",
       "imageUrl": "https://replyalba.com/banner/P4CSW1755567081.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "서울 명동 웨딩박람회",
+      "date": "07.18(토) ~ 07.19(일)",
+      "location": "서울 중구 소공로 63 신세계백화점 본점 12층 특별 행사장",
+      "link": "https://replyalba.com/pt/XxkotSBwbI",
+      "imageUrl": "https://replyalba.com/banner/C39JD1758611009.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "서울 웨딩홀 박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 강남구 테헤란로 518 섬유센터 2F",
+      "link": "https://replyalba.com/pt/FhnA2Mu0ey",
+      "imageUrl": "https://replyalba.com/banner/Q03891764211527.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "세텍 웨딩홀 페어",
+      "date": "07.11(토) ~ 07.12(일)",
+      "location": "서울 강남구 남부순환로 3104 SETEC 컨벤션센터(2층 전시실)",
+      "link": "https://replyalba.com/pt/FhnA2KRV7u",
+      "imageUrl": "https://replyalba.com/banner/MXET31743125714.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "세텍 허니문 페어",
+      "date": "07.11(토) ~ 07.12(일)",
+      "location": "서울 강남구 남부순환로 3104 SETEC 컨벤션센터(2층 전시실)",
+      "link": "https://replyalba.com/pt/FhnA2HPbTI",
+      "imageUrl": "https://replyalba.com/banner/LOROD1768897870.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "용산 아이파크 혼수박람회",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "서울 용산구 한강대로23길 55 아이파크몰 리빙파크 5층 리바트 가구 특별행사장",
+      "link": "https://replyalba.com/pt/FhnA2KJXGH",
+      "imageUrl": "https://replyalba.com/banner/PSTV41781850001.jpg"
+    },
+    {
+      "region": "서울",
+      "title": "용산 아이파크몰 대형 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "서울 용산구 한강대로23길 55 용산 아이파크몰 리빙파크 3F",
+      "link": "https://replyalba.com/pt/FhnA2I7VzO",
+      "imageUrl": "https://replyalba.com/banner/VSY201707797835.jpg"
     }
   ],
   "경기": [
+    {
+      "region": "경기",
+      "title": "수원 메쎄 하우투 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 수원시 권선구 세화로134번길 37 수원메쎄 2층 특별전시장",
+      "link": "https://replyalba.com/pt/FhnA2JH114",
+      "imageUrl": "https://replyalba.com/banner/IMM3H1767769353.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "일산킨텍스 최대규모 대형 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 고양시 일산서구 킨텍스로 217-60 킨텍스 2전시장",
+      "link": "https://replyalba.com/pt/FhnA2KyFxc",
+      "imageUrl": "https://replyalba.com/banner/TRSF81704428926.jpg"
+    },
     {
       "region": "경기",
       "title": "수원메쎄 대형 웨딩박람회",
@@ -1006,51 +1046,51 @@
     },
     {
       "region": "경기",
-      "title": "안양평촌 롯데백화점 레브웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "경기도 안양시 동안구 호계동 1039 롯데백화점 7층 LG전자",
-      "link": "https://replyalba.com/pt/XxkotNrDTF",
-      "imageUrl": "https://replyalba.com/banner/4368P1778813701.jpg"
-    },
-    {
-      "region": "경기",
-      "title": "광명 AK 대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 광명시 양지로 17 AK PLAZA 광명",
-      "link": "https://replyalba.com/pt/FhnA2I6zXo",
-      "imageUrl": "https://replyalba.com/banner/E3V0W1750136079.jpg"
-    },
-    {
-      "region": "경기",
-      "title": "수원 메쎄 하우투 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 수원시 권선구 세화로134번길 37 수원메쎄 2층 특별전시장",
-      "link": "https://replyalba.com/pt/FhnA2JH114",
-      "imageUrl": "https://replyalba.com/banner/IMM3H1767769353.jpg"
-    },
-    {
-      "region": "경기",
       "title": "수원컨벤션센터 초대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "경기 수원시 영통구 광교중앙로 140 수원컨벤션센터 1F",
       "link": "https://replyalba.com/pt/FhnA2KuQnt",
       "imageUrl": "https://replyalba.com/banner/R8J6M1704428936.jpg"
     },
     {
       "region": "경기",
-      "title": "안양 롯데백화점 평촌 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 안양시 동안구 시민대로 180 롯데백화점 평촌점 특별전시장",
-      "link": "https://replyalba.com/pt/FhnA2LPhMC",
-      "imageUrl": "https://replyalba.com/banner/A68FQ1722219656.jpg"
+      "title": "광명 AK 대형 웨딩박람회",
+      "date": "07.18(토) ~ 07.19(일)",
+      "location": "경기 광명시 양지로 17 AK PLAZA 광명",
+      "link": "https://replyalba.com/pt/FhnA2I6zXo",
+      "imageUrl": "https://replyalba.com/banner/E3V0W1750136079.jpg"
     },
     {
       "region": "경기",
-      "title": "일산킨텍스 최대규모 대형 웨딩박람회",
+      "title": "성남/용인 그랜드 웨딩페어",
       "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 고양시 일산서구 킨텍스로 217-60 킨텍스 2전시장",
-      "link": "https://replyalba.com/pt/FhnA2KyFxc",
-      "imageUrl": "https://replyalba.com/banner/TRSF81704428926.jpg"
+      "location": "경기 용인시 수지구 포은대로 536 신세계 사우스시티 특별행사장",
+      "link": "https://replyalba.com/pt/W0YFLuvQJ6",
+      "imageUrl": "https://replyalba.com/banner/0FM571761291731.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "스타필드 고양 그랜드 웨딩페어",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 고양시 덕양구 고양대로 1955 스타필드고양 한샘 특별행사장",
+      "link": "https://replyalba.com/pt/FhnA2NiAD9",
+      "imageUrl": "https://replyalba.com/banner/TE6MC1767599867.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "안산 롯데백화점 그랜드 웨딩페어",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 안산시 단원구 중앙대로873 신관 4층",
+      "link": "https://replyalba.com/pt/FhnA2Lq1nG",
+      "imageUrl": "https://replyalba.com/banner/5ORXX1778551266.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "타임빌라스 수원 대형 웨딩박람회",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "경기 수원시 권선구 세화로 134 지하1층 삼성스토어",
+      "link": "https://replyalba.com/pt/FhnA2Kwaq4",
+      "imageUrl": "https://replyalba.com/banner/CWVGI1761291718.jpg"
     },
     {
       "region": "경기",
@@ -1062,11 +1102,27 @@
     },
     {
       "region": "경기",
-      "title": "더셜리 의정부 신세계 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 의정부시 의정부동 168-54 신세계백화점 8층 LG전자 특별행사장",
-      "link": "https://replyalba.com/pt/FhnA2KJiV3",
-      "imageUrl": "https://replyalba.com/banner/SY72G1726714450.jpg"
+      "title": "광명 위드유 웨딩박람회",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "경기 광명시 금하로 454 삼성스토어 광명소하 특별행사장",
+      "link": "https://replyalba.com/pt/XxkotRqUaA",
+      "imageUrl": "https://replyalba.com/banner/HDIO51744593274.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "더셜리 수원 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 수원시 팔달구 인계로94번길 26 1층 투어민",
+      "link": "https://replyalba.com/pt/FhnA2KWAQr",
+      "imageUrl": "https://replyalba.com/banner/VSJ061775609407.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "동탄 롯데백화점 그랜드 웨딩페어",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 화성시 동탄역로 160 롯데백화점 동탄점 6층 특별행사장",
+      "link": "https://replyalba.com/pt/FhnA2IpZqn",
+      "imageUrl": "https://replyalba.com/banner/MBCZK1762753410.jpg"
     },
     {
       "region": "경기",
@@ -1078,11 +1134,11 @@
     },
     {
       "region": "경기",
-      "title": "성남/용인 그랜드 웨딩페어",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 용인시 수지구 포은대로 536 신세계 사우스시티 특별행사장",
-      "link": "https://replyalba.com/pt/W0YFLuvQJ6",
-      "imageUrl": "https://replyalba.com/banner/0FM571761291731.jpg"
+      "title": "수원 AK플라자 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 수원시 팔달구 덕영대로 924 AK플라자 수원",
+      "link": "https://replyalba.com/pt/FhnA2MzDhX",
+      "imageUrl": "https://replyalba.com/banner/BOPXH1737619245.jpg"
     },
     {
       "region": "경기",
@@ -1102,35 +1158,11 @@
     },
     {
       "region": "경기",
-      "title": "수원 메쎄 하우투 허니문박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 수원시 권선구 세화로 134번길 37 수원메쎄",
-      "link": "https://replyalba.com/pt/OjTCN84D9D",
-      "imageUrl": "https://replyalba.com/banner/2PJX11771477278.jpg"
-    },
-    {
-      "region": "경기",
-      "title": "수원 메쎄 홈씨씨 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "경기 수원시 권선구 세화로134번길 37 수원메쎄 특별전시장",
-      "link": "https://replyalba.com/pt/FhnA2L6SBm",
-      "imageUrl": "https://replyalba.com/banner/X4DVI1756693879.jpg"
-    },
-    {
-      "region": "경기",
       "title": "수원 웨딩거리 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "경기 수원시 팔달구 효원로 62, 수원웨딩만들기 웨딩타운 전층",
       "link": "https://replyalba.com/pt/FhnA2MrzKN",
       "imageUrl": "https://replyalba.com/banner/DK5S31709699054.jpg"
-    },
-    {
-      "region": "경기",
-      "title": "수원 타임빌라스 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 수원시 권선구 세화로 134 타임빌라스 수원점",
-      "link": "https://replyalba.com/pt/FhnA2INpXD",
-      "imageUrl": "https://replyalba.com/banner/5T72Q1779430981.jpg"
     },
     {
       "region": "경기",
@@ -1142,14 +1174,6 @@
     },
     {
       "region": "경기",
-      "title": "스타필드 고양 그랜드 웨딩페어",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 고양시 덕양구 고양대로 1955 스타필드고양 한샘 특별행사장",
-      "link": "https://replyalba.com/pt/FhnA2NiAD9",
-      "imageUrl": "https://replyalba.com/banner/TE6MC1767599867.jpg"
-    },
-    {
-      "region": "경기",
       "title": "안산 삼성 고잔점 위드유 웨딩박람회",
       "date": "06.01(월) ~ 06.30(화)",
       "location": "경기 안산시 상록구 광덕1로 342 삼성스토어 안산고잔 2층",
@@ -1158,19 +1182,27 @@
     },
     {
       "region": "경기",
-      "title": "안성 스타필드 그랜드 웨딩페어",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "경기도 안성시 공도읍 서동대로 3930-39 2F 스타필드 안성점(한샘) 특별행사장",
-      "link": "https://replyalba.com/pt/FhnA2MNeFB",
-      "imageUrl": "https://replyalba.com/banner/W0GU81772521244.jpg"
+      "title": "안양 롯데백화점 평촌 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 안양시 동안구 시민대로 180 롯데백화점 평촌점 특별전시장",
+      "link": "https://replyalba.com/pt/FhnA2LPhMC",
+      "imageUrl": "https://replyalba.com/banner/A68FQ1722219656.jpg"
     },
     {
       "region": "경기",
-      "title": "월컨투 의정부 허니문박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "경기 의정부시 의정부동 168-54 신세계백화점 8층 LG전자 특별행사장",
-      "link": "https://replyalba.com/pt/FhnA2JGpjN",
-      "imageUrl": "https://replyalba.com/banner/EWZK31782269922.jpg"
+      "title": "안양평촌 롯데백화점 레브웨딩박람회",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "경기도 안양시 동안구 호계동 1039 롯데백화점 7층 LG전자",
+      "link": "https://replyalba.com/pt/XxkotNrDTF",
+      "imageUrl": "https://replyalba.com/banner/4368P1778813701.jpg"
+    },
+    {
+      "region": "경기",
+      "title": "웨딩더하기 동탄 롯데백화점 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경기 화성시 동탄구 동탄역로 160 6층 동탄 롯데백화점 LG가전 특별 행사장",
+      "link": "https://replyalba.com/pt/XxkotPeq5h",
+      "imageUrl": "https://replyalba.com/banner/6CCFE1734669979.jpg"
     },
     {
       "region": "경기",
@@ -1198,22 +1230,6 @@
     },
     {
       "region": "경기",
-      "title": "타임빌라스 수원 대형 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "경기 수원시 권선구 세화로 134 지하1층 삼성스토어",
-      "link": "https://replyalba.com/pt/FhnA2Kwaq4",
-      "imageUrl": "https://replyalba.com/banner/CWVGI1761291718.jpg"
-    },
-    {
-      "region": "경기",
-      "title": "파주 패밀리 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "경기도 파주시 미래로 319 LG전자 베스트샵 파주 운정본점 특별행사장",
-      "link": "https://replyalba.com/pt/OjTCNbofp6",
-      "imageUrl": "https://replyalba.com/banner/CZXQ41762151029.jpg"
-    },
-    {
-      "region": "경기",
       "title": "평택 LG베스트샵 위드유 웨딩박람회",
       "date": "07.04(토) ~ 07.05(일)",
       "location": "경기 평택시 평택로 311 LG전자베스트샵 평택본점",
@@ -1223,7 +1239,7 @@
     {
       "region": "경기",
       "title": "평택 그랜드 웨딩페어",
-      "date": "07.11(토) ~ 07.12(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "경기 평택시 평택로 51 AK플라자 평택점 6층 특별행사장",
       "link": "https://replyalba.com/pt/FhnA2Ll6aw",
       "imageUrl": "https://replyalba.com/banner/BB7WF1768286679.jpg"
@@ -1239,7 +1255,7 @@
     {
       "region": "경기",
       "title": "하남 패밀리 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
+      "date": "07.11(토) ~ 07.12(일)",
       "location": "경기 하남시 미사대로 750 지하1층 LG전자베스트샵 신세계하남점",
       "link": "https://replyalba.com/pt/zRFqUdv2Kb",
       "imageUrl": "https://replyalba.com/banner/AJT131756173028.jpg"
@@ -1248,19 +1264,11 @@
   "인천": [
     {
       "region": "인천",
-      "title": "인천 송도컨벤시아 대형 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "인천 연수구 센트럴로 123 송도컨벤시아",
-      "link": "https://replyalba.com/pt/W0YFLul5jS",
-      "imageUrl": "https://replyalba.com/banner/9CQ9Q1705982887.jpg"
-    },
-    {
-      "region": "인천",
-      "title": "인천 하이허니문",
-      "date": "06.01(월) ~ 06.30(화)",
-      "location": "인천 남동구 예술로 206 중앙프라자 A동 3층",
-      "link": "https://replyalba.com/pt/W0YFLsfC7g",
-      "imageUrl": "https://replyalba.com/banner/8HGXM1743400939.jpg"
+      "title": "초대형 인천 하이어 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "인천 연수구 센트럴로 123 송도컨벤시아 116호, 117호",
+      "link": "https://replyalba.com/pt/TlXuNifmNj",
+      "imageUrl": "https://replyalba.com/banner/PPIB71781498863.jpg"
     },
     {
       "region": "인천",
@@ -1289,7 +1297,7 @@
     {
       "region": "인천",
       "title": "송도 엘리아벨 대형 웨딩박람회",
-      "date": "07.25(토) ~ 07.26(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "인천 연수구 송도힐즈로10길 8 엘리아벨 특별행사장",
       "link": "https://replyalba.com/pt/W0YFLu2hGy",
       "imageUrl": "https://replyalba.com/banner/56JMP1781140294.jpg"
@@ -1301,16 +1309,56 @@
       "location": "인천 미추홀구 연남로 35 5층 LG전자베스트샵 롯데인천점 특별행사장",
       "link": "https://replyalba.com/pt/XxkotQn5lO",
       "imageUrl": "https://replyalba.com/banner/X917V1779086122.jpg"
+    },
+    {
+      "region": "인천",
+      "title": "인천 송도컨벤시아 대형 웨딩박람회",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "인천 연수구 센트럴로 123 송도컨벤시아",
+      "link": "https://replyalba.com/pt/W0YFLul5jS",
+      "imageUrl": "https://replyalba.com/banner/9CQ9Q1705982887.jpg"
+    },
+    {
+      "region": "인천",
+      "title": "인천 하이허니문",
+      "date": "06.01(월) ~ 06.30(화)",
+      "location": "인천 남동구 예술로 206 중앙프라자 A동 3층",
+      "link": "https://replyalba.com/pt/W0YFLsfC7g",
+      "imageUrl": "https://replyalba.com/banner/8HGXM1743400939.jpg"
     }
   ],
   "부산": [
     {
       "region": "부산",
-      "title": "롯데백화점 부산본점 웨딩엑스포",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "부산 부산진구 가야대로 772 롯데백화점 부산본점 10층",
-      "link": "https://replyalba.com/pt/W0YFLv1aGR",
-      "imageUrl": "https://replyalba.com/banner/JWKG91750993173.jpg"
+      "title": "KNN 부산 웨딩엑스포",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "부산 해운대구 센텀서로 30 KNN방송국 특별행사장",
+      "link": "https://replyalba.com/pt/W0YFLuwHDz",
+      "imageUrl": "https://replyalba.com/banner/Z4OBF1732583342.jpg"
+    },
+    {
+      "region": "부산",
+      "title": "W웨딩 롯데백화점 부산본점 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "부산광역시 부산진구 가야대로 772 롯데백화점 부산본점 10층",
+      "link": "https://replyalba.com/pt/W0YFLr2TuX",
+      "imageUrl": "https://replyalba.com/banner/VOE9B1736227945.jpg"
+    },
+    {
+      "region": "부산",
+      "title": "W웨딩 신세계센텀 부산웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "부산광역시 해운대구 센텀남대로 35 신세계백화점 센텀시티점",
+      "link": "https://replyalba.com/pt/W0YFLs81Df",
+      "imageUrl": "https://replyalba.com/banner/LC1LW1736227524.jpg"
+    },
+    {
+      "region": "부산",
+      "title": "W웨딩시티 부산웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "부산광역시 부산진구 자유평화로 11 W웨딩시티",
+      "link": "https://replyalba.com/pt/W0YFLtExSt",
+      "imageUrl": "https://replyalba.com/banner/51X8Y1693292347.jpg"
     },
     {
       "region": "부산",
@@ -1322,64 +1370,24 @@
     },
     {
       "region": "부산",
-      "title": "BWB 부산 벡스코 웨딩박람회",
-      "date": "07.17(금) ~ 07.19(일)",
-      "location": "부산 해운대구 APEC로 30 벡스코 제2전시장 1층 4B홀",
-      "link": "https://replyalba.com/pt/OjTCN92WRD",
-      "imageUrl": "https://replyalba.com/banner/W4SR61740372190.jpg"
-    },
-    {
-      "region": "부산",
-      "title": "W웨딩 롯데백화점 부산본점 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "부산광역시 부산진구 가야대로 772 롯데백화점 부산본점 10층",
-      "link": "https://replyalba.com/pt/W0YFLr2TuX",
-      "imageUrl": "https://replyalba.com/banner/VOE9B1736227945.jpg"
-    },
-    {
-      "region": "부산",
-      "title": "KNN 부산 웨딩엑스포",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "부산 해운대구 센텀서로 30 KNN방송국 특별행사장",
-      "link": "https://replyalba.com/pt/W0YFLuwHDz",
-      "imageUrl": "https://replyalba.com/banner/Z4OBF1732583342.jpg"
-    },
-    {
-      "region": "부산",
-      "title": "W웨딩 신세계센텀 부산웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "부산광역시 해운대구 센텀남대로 35 신세계백화점 센텀시티점",
-      "link": "https://replyalba.com/pt/W0YFLs81Df",
-      "imageUrl": "https://replyalba.com/banner/LC1LW1736227524.jpg"
-    },
-    {
-      "region": "부산",
-      "title": "W웨딩시티 부산웨딩박람회",
+      "title": "롯데백화점 부산본점 웨딩엑스포",
       "date": "07.04(토) ~ 07.05(일)",
-      "location": "부산광역시 부산진구 자유평화로 11 W웨딩시티",
-      "link": "https://replyalba.com/pt/W0YFLtExSt",
-      "imageUrl": "https://replyalba.com/banner/51X8Y1693292347.jpg"
+      "location": "부산 부산진구 가야대로 772 롯데백화점 부산본점 10층",
+      "link": "https://replyalba.com/pt/W0YFLv1aGR",
+      "imageUrl": "https://replyalba.com/banner/JWKG91750993173.jpg"
     },
     {
       "region": "부산",
       "title": "부산 더블혜택 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "부산 부산진구 황령대로 13 한라시그마타워 1F",
       "link": "https://replyalba.com/pt/W0YFLsZxAd",
       "imageUrl": "https://replyalba.com/banner/8S7PP1766713555.jpg"
     },
     {
       "region": "부산",
-      "title": "부산 라모르 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "부산 연제구 법원로8번길 10 라모르웨딩",
-      "link": "https://replyalba.com/pt/W0YFLrddVG",
-      "imageUrl": "https://replyalba.com/banner/2FPFG1768976420.jpg"
-    },
-    {
-      "region": "부산",
       "title": "부산 찰스 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "부산광역시 부산진구 황령대로 13 한라시그마타워 1F",
       "link": "https://replyalba.com/pt/W0YFLqWwTw",
       "imageUrl": "https://replyalba.com/banner/XBIFU1766713272.jpg"
@@ -1387,29 +1395,13 @@
     {
       "region": "부산",
       "title": "부산 투어민 허니문초대전",
-      "date": "07.04(토) ~ 07.05(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "부산 연제구 법원로8번길 10, 1층",
       "link": "https://replyalba.com/pt/W0YFLs3Cgu",
       "imageUrl": "https://replyalba.com/banner/OAHPC1766450338.jpg"
     }
   ],
   "충청도": [
-    {
-      "region": "충청도",
-      "title": "청주 오스코 하우투 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "충북 청주시 흥덕구 오송읍 만수리 275-5 청주 오스코 특별전시장",
-      "link": "https://replyalba.com/pt/XxkotNwZXg",
-      "imageUrl": "https://replyalba.com/banner/VX77M1756098853.jpg"
-    },
-    {
-      "region": "충청도",
-      "title": "대전 NC백화점 대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "대전 유성구 계룡로 119 NC백화점 유성점 7층 특별 행사장",
-      "link": "https://replyalba.com/pt/W0YFLtAQ7D",
-      "imageUrl": "https://replyalba.com/banner/O86201754550305.jpg"
-    },
     {
       "region": "충청도",
       "title": "대전 컨벤션센터 대형 웨딩박람회",
@@ -1420,19 +1412,19 @@
     },
     {
       "region": "충청도",
-      "title": "천안 갤러리아 그랜드 웨딩페어",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "충남 천안시 서북구 공원로 227 7층 LG전자베스트샵 갤러리아 특별행사장",
-      "link": "https://replyalba.com/pt/TlXuNd6ujh",
-      "imageUrl": "https://replyalba.com/banner/W1Y0A1761291416.jpg"
+      "title": "천안 갤러리아 대형 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "충남 천안시 서북구 공원로 227 갤러리아백화점 센터시티점 7F 특별전시장",
+      "link": "https://replyalba.com/pt/W0YFLvx5Hy",
+      "imageUrl": "https://replyalba.com/banner/5BG0T1714107892.jpg"
     },
     {
       "region": "충청도",
-      "title": "청주 오스코 초대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "충북 청주시 흥덕구 오송읍 만수리 275-5 청주오스코 특별전시장",
-      "link": "https://replyalba.com/pt/W0YFLvYb9x",
-      "imageUrl": "https://replyalba.com/banner/5K2C41754025930.jpg"
+      "title": "청주 OSCO 패밀리 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "충북 청주시 흥덕구 오송읍 만수리 275-5 청주오스코 특별행사장",
+      "link": "https://replyalba.com/pt/W0YFLrDjQh",
+      "imageUrl": "https://replyalba.com/banner/FJKCQ1762151417.jpg"
     },
     {
       "region": "충청도",
@@ -1444,11 +1436,11 @@
     },
     {
       "region": "충청도",
-      "title": "당진 그랜드 웨딩페어",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "충남 당진시 수청9길 23 LG전자베스트샵 당진점 특별행사장",
-      "link": "https://replyalba.com/pt/W0YFLtYVOB",
-      "imageUrl": "https://replyalba.com/banner/HXD8X1761291725.jpg"
+      "title": "대전 NC백화점 대형 웨딩박람회",
+      "date": "07.11(토) ~ 07.12(일)",
+      "location": "대전 유성구 계룡로 119 NC백화점 유성점 7층 특별 행사장",
+      "link": "https://replyalba.com/pt/W0YFLtAQ7D",
+      "imageUrl": "https://replyalba.com/banner/O86201754550305.jpg"
     },
     {
       "region": "충청도",
@@ -1460,19 +1452,11 @@
     },
     {
       "region": "충청도",
-      "title": "천안 갤러리아 대형 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "충남 천안시 서북구 공원로 227 갤러리아백화점 센터시티점 7F 특별전시장",
-      "link": "https://replyalba.com/pt/W0YFLvx5Hy",
-      "imageUrl": "https://replyalba.com/banner/5BG0T1714107892.jpg"
-    },
-    {
-      "region": "충청도",
-      "title": "천안 신세계백화점 레브웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "충남 천안시 동남구 만남로 43 신세계 천안아산점 A관 4층 LG전자",
-      "link": "https://replyalba.com/pt/W0YFLtgBSw",
-      "imageUrl": "https://replyalba.com/banner/PEOTY1772514246.jpg"
+      "title": "천안 갤러리아 그랜드 웨딩페어",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "충남 천안시 서북구 공원로 227 7층 LG전자베스트샵 갤러리아 특별행사장",
+      "link": "https://replyalba.com/pt/TlXuNd6ujh",
+      "imageUrl": "https://replyalba.com/banner/W1Y0A1761291416.jpg"
     },
     {
       "region": "충청도",
@@ -1497,6 +1481,22 @@
       "location": "충남 천안시 동남구 서부대로 540 1층 하이허니문 천안점",
       "link": "https://replyalba.com/pt/W0YFLscn6u",
       "imageUrl": "https://replyalba.com/banner/A733P1743400737.jpg"
+    },
+    {
+      "region": "충청도",
+      "title": "청주 오스코 초대형 웨딩박람회",
+      "date": "07.11(토) ~ 07.12(일)",
+      "location": "충북 청주시 흥덕구 오송읍 만수리 275-5 청주오스코 특별전시장",
+      "link": "https://replyalba.com/pt/W0YFLvYb9x",
+      "imageUrl": "https://replyalba.com/banner/5K2C41754025930.jpg"
+    },
+    {
+      "region": "충청도",
+      "title": "청주 오스코 하우투 웨딩박람회",
+      "date": "07.04(토) ~ 07.05(일)",
+      "location": "충북 청주시 흥덕구 오송읍 만수리 275-5 청주 오스코 특별전시장",
+      "link": "https://replyalba.com/pt/XxkotNwZXg",
+      "imageUrl": "https://replyalba.com/banner/VX77M1756098853.jpg"
     },
     {
       "region": "충청도",
@@ -1547,6 +1547,14 @@
       "location": "전북 전주시 완산구 홍산3길 11 청담스토리 빌딩 5층",
       "link": "https://replyalba.com/pt/W0YFLuWUkB",
       "imageUrl": "https://replyalba.com/banner/02HA61763023197.jpg"
+    },
+    {
+      "region": "전라도",
+      "title": "광주 컨벤션 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "광주 서구 치평동 1282-1 컨벤션타워 2층",
+      "link": "https://replyalba.com/pt/W0YFLq064V",
+      "imageUrl": "https://replyalba.com/banner/V81J51773970626.jpg"
     }
   ],
   "강원도": [
@@ -1557,6 +1565,30 @@
       "location": "강원 원주시 봉화로 1 AK플라자 원주 특별행사장",
       "link": "https://replyalba.com/pt/W0YFLt0SVV",
       "imageUrl": "https://replyalba.com/banner/H3QSZ1761291712.jpg"
+    },
+    {
+      "region": "강원도",
+      "title": "원주 삼성스토어 위드유 웨딩박람회",
+      "date": "06.01(월) ~ 06.30(화)",
+      "location": "강원도 원주시 북원로 2384 삼성스토어 단계",
+      "link": "https://replyalba.com/pt/W0YFLtip3B",
+      "imageUrl": "https://replyalba.com/banner/GAVH01727834302.jpg"
+    },
+    {
+      "region": "강원도",
+      "title": "웨딩더하기 원주 LG베스트샵 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "강원도 원주시 봉화로 1 6층 LG전자베스트샵 AK플라자원주점",
+      "link": "https://replyalba.com/pt/XxkotNxTHg",
+      "imageUrl": "https://replyalba.com/banner/04C5C1772685100.jpg"
+    },
+    {
+      "region": "강원도",
+      "title": "강릉 세인트존스 레브웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "강원도 강릉시 창해로 307 강릉세인트존스 호텔",
+      "link": "https://replyalba.com/pt/W0YFLufxrX",
+      "imageUrl": "https://replyalba.com/banner/BJX6Q1768541491.jpg"
     },
     {
       "region": "강원도",
@@ -1576,35 +1608,11 @@
     },
     {
       "region": "강원도",
-      "title": "원주 삼성스토어 위드유 웨딩박람회",
-      "date": "06.01(월) ~ 06.30(화)",
-      "location": "강원도 원주시 북원로 2384 삼성스토어 단계",
-      "link": "https://replyalba.com/pt/W0YFLtip3B",
-      "imageUrl": "https://replyalba.com/banner/GAVH01727834302.jpg"
-    },
-    {
-      "region": "강원도",
-      "title": "웨딩더하기 원주 LG베스트샵 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "강원도 원주시 봉화로 1 6층 LG전자베스트샵 AK플라자원주점",
-      "link": "https://replyalba.com/pt/XxkotNxTHg",
-      "imageUrl": "https://replyalba.com/banner/04C5C1772685100.jpg"
-    },
-    {
-      "region": "강원도",
       "title": "춘천 더테라리움 위드유 웨딩박람회",
       "date": "07.11(토) ~ 07.12(일)",
       "location": "강원도 춘천시 지석로 80 10층 춘천 더테라리움",
       "link": "https://replyalba.com/pt/XxkotQgH4y",
       "imageUrl": "https://replyalba.com/banner/T2G721769498166.jpg"
-    },
-    {
-      "region": "강원도",
-      "title": "춘천 레브웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "강원 춘천시 영서로 2099 LG전자 베스트샵 춘천점",
-      "link": "https://replyalba.com/pt/W0YFLub6sy",
-      "imageUrl": "https://replyalba.com/banner/D5GZM1779424490.jpg"
     },
     {
       "region": "강원도",
@@ -1618,25 +1626,9 @@
   "경상도": [
     {
       "region": "경상도",
-      "title": "울산 롯데백화점 웨딩박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "울산 남구 삼산로 288 롯데백화점 울산점 특별행사장 B1",
-      "link": "https://replyalba.com/pt/W0YFLrYZ4g",
-      "imageUrl": "https://replyalba.com/banner/S8DL91722494712.jpg"
-    },
-    {
-      "region": "경상도",
-      "title": "울산 반하나 허니문박람회",
-      "date": "07.04(토) ~ 07.05(일)",
-      "location": "울산 북구 진장동 705 신선도원몰, 1층 반하나투어",
-      "link": "https://replyalba.com/pt/W0YFLqaOE0",
-      "imageUrl": "https://replyalba.com/banner/7ZCOH1749778237.jpg"
-    },
-    {
-      "region": "경상도",
       "title": "대구 대결모 대규모 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "대구 중구 동문동 38-6 패션주얼리타운 2층",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "대구광역시 수성구 동대구로 305 그랜드호텔 웨딩행사장",
       "link": "https://replyalba.com/pt/W0YFLt6mFN",
       "imageUrl": "https://replyalba.com/banner/V49A51775784775.jpg"
     },
@@ -1650,6 +1642,46 @@
     },
     {
       "region": "경상도",
+      "title": "울산 반하나 허니문박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "울산 북구 진장동 705 신선도원몰, 1층 반하나투어",
+      "link": "https://replyalba.com/pt/W0YFLqaOE0",
+      "imageUrl": "https://replyalba.com/banner/7ZCOH1749778237.jpg"
+    },
+    {
+      "region": "경상도",
+      "title": "웨딩하람 웨딩박람회",
+      "date": "07.11(토) ~ 07.12(일)",
+      "location": "대구광역시 중구 공평로59 (우원빌딩) 59 2층",
+      "link": "https://replyalba.com/pt/W0YFLuh4uh",
+      "imageUrl": "https://replyalba.com/banner/QQ3GU1768204104.jpg"
+    },
+    {
+      "region": "경상도",
+      "title": "창원 프리마베라 웨딩박람회",
+      "date": "06.01(월) ~ 06.30(화)",
+      "location": "경상남도 창원시 성산구 용지로 112 청담 순수 창원점(중앙동)",
+      "link": "https://replyalba.com/pt/W0YFLtXTPj",
+      "imageUrl": "https://replyalba.com/banner/9O0WW1759131416.jpg"
+    },
+    {
+      "region": "경상도",
+      "title": "김해 최대규모 웨딩박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "경남 김해시 김해대로 2294 LG전자베스트샵 김해본점 특별행사장",
+      "link": "https://replyalba.com/pt/W0YFLs2DGh",
+      "imageUrl": "https://replyalba.com/banner/WXIGV1768888348.jpg"
+    },
+    {
+      "region": "경상도",
+      "title": "대구 반하나 허니문박람회",
+      "date": "06.27(토) ~ 06.28(일)",
+      "location": "대구 신세계백화점 7층 LG",
+      "link": "https://replyalba.com/pt/W0YFLt6uBt",
+      "imageUrl": "https://replyalba.com/banner/K9CRV1764825292.jpg"
+    },
+    {
+      "region": "경상도",
       "title": "대구 연웨딩갤러리 웨딩박람회",
       "date": "07.11(토) ~ 07.12(일)",
       "location": "대구 중구 명덕로65길 32 연웨딩사옥 1층",
@@ -1658,11 +1690,11 @@
     },
     {
       "region": "경상도",
-      "title": "웨딩하람 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "대구광역시 중구 동덕로 33, 13동 1층 13호(대봉동) 웨딩하람",
-      "link": "https://replyalba.com/pt/W0YFLuh4uh",
-      "imageUrl": "https://replyalba.com/banner/QQ3GU1768204104.jpg"
+      "title": "울산 롯데백화점 웨딩박람회",
+      "date": "06.01(월) ~ 06.30(화)",
+      "location": "울산 남구 삼산로 288 롯데백화점 울산점 특별행사장 B1",
+      "link": "https://replyalba.com/pt/W0YFLrYZ4g",
+      "imageUrl": "https://replyalba.com/banner/S8DL91722494712.jpg"
     },
     {
       "region": "경상도",
@@ -1690,27 +1722,11 @@
     },
     {
       "region": "경상도",
-      "title": "창원 최대규모 웨딩박람회",
-      "date": "07.18(토) ~ 07.19(일)",
-      "location": "경남 창원시 성산구 중앙대로100번길 13 LG전자베스트샵 상남본점",
-      "link": "https://replyalba.com/pt/W0YFLrznhA",
-      "imageUrl": "https://replyalba.com/banner/ZMP301768888297.jpg"
-    },
-    {
-      "region": "경상도",
       "title": "창원 최대규모 허니문박람회",
-      "date": "07.04(토) ~ 07.05(일)",
+      "date": "06.27(토) ~ 06.28(일)",
       "location": "경남 창원시 성산구 마디미서로 30 2층 썸웨드 본사 사옥",
       "link": "https://replyalba.com/pt/W0YFLtkoEh",
       "imageUrl": "https://replyalba.com/banner/F83461776652764.jpg"
-    },
-    {
-      "region": "경상도",
-      "title": "창원 프리마베라 웨딩박람회",
-      "date": "06.01(월) ~ 06.30(화)",
-      "location": "경상남도 창원시 성산구 용지로 112 청담 순수 창원점(중앙동)",
-      "link": "https://replyalba.com/pt/W0YFLtXTPj",
-      "imageUrl": "https://replyalba.com/banner/9O0WW1759131416.jpg"
     },
     {
       "region": "경상도",
@@ -1729,22 +1745,6 @@
       "location": "제주도 제주시 한라대학로 38 제주한라대학교 한라컨벤션센터 1층 특별행사장",
       "link": "https://replyalba.com/pt/W0YFLrH0rQ",
       "imageUrl": "https://replyalba.com/banner/P91TM1780896403.jpg"
-    },
-    {
-      "region": "제주도",
-      "title": "제주 제이유 웨딩박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "제주 제주시 동광로 34 호텔샬롬 제주",
-      "link": "https://replyalba.com/pt/W0YFLtHy3n",
-      "imageUrl": "https://replyalba.com/banner/O24351773037030.jpg"
-    },
-    {
-      "region": "제주도",
-      "title": "제주 투어민 허니문박람회",
-      "date": "07.11(토) ~ 07.12(일)",
-      "location": "제주 제주시 동광로 34 호텔샬롬 제주",
-      "link": "https://replyalba.com/pt/W0YFLsJlQR",
-      "imageUrl": "https://replyalba.com/banner/VTL1C1768807756.jpg"
     }
   ]
 }
